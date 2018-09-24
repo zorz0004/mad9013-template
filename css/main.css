@@ -12,6 +12,7 @@ Date:
 }
 *::after,
 *::before{
+    /* pseudo-elements */
     box-sizing: inherit;
 }
 html{
