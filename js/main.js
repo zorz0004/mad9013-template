@@ -1,6 +1,6 @@
 /********************************
 Filename: main.js
-Author: @
+Author: Marcos Zorzi Rosa
 Description: 
 Date: 
 *********************************/
